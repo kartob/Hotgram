@@ -1,0 +1,19 @@
+Executable : /Applications/android-NDK/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/alishiralizade/Desktop/Plus-Messenger-dev/TMessagesProj/jni/Android.mk
+NDK_APPLICATION_MK=/Users/alishiralizade/Desktop/Plus-Messenger-dev/TMessagesProj/jni/Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=0
+APP_PLATFORM=android-9
+NDK_OUT=/Users/alishiralizade/Desktop/Plus-Messenger-dev/TMessagesProj/build/intermediates/ndkBuild/fat/release/obj
+NDK_LIBS_OUT=/Users/alishiralizade/Desktop/Plus-Messenger-dev/TMessagesProj/build/intermediates/ndkBuild/fat/release/lib
+NDK_APPLICATION_MK:=jni/Application.mk
+APP_PLATFORM:=android-14
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
